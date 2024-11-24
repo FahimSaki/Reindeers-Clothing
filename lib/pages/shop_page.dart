@@ -1,3 +1,4 @@
+import 'package:ecommerce_ui/components/my_drawer.dart';
 import 'package:flutter/material.dart';
 
 class ShopPage extends StatelessWidget {
@@ -7,8 +8,12 @@ class ShopPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Shop Page'),
+        backgroundColor: Colors.transparent,
+        elevation: 0,
+        foregroundColor: Theme.of(context).colorScheme.inversePrimary,
+        title: const Text('Shop Page'),
       ),
+      drawer: MyDrawer(),
     );
   }
 }
