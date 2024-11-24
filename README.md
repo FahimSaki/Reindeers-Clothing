@@ -1,10 +1,10 @@
-# ecommerce_ui
+# Reindeers Clothing
 
-A new Flutter project.
+Going to put a readme later after project completion !!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Using Flutter ...
 
 A few resources to get you started if this is your first Flutter project:
 
