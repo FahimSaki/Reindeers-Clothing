@@ -1,11 +1,19 @@
+import 'package:ecommerce_ui/models/shop.dart';
+import 'package:ecommerce_ui/pages/cart_page.dart';
 import 'package:ecommerce_ui/pages/intro_page.dart';
 import 'package:ecommerce_ui/pages/shop_page.dart';
 import 'package:ecommerce_ui/splash_screen.dart';
 import 'package:ecommerce_ui/themes/light_mode.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(
+    ChangeNotifierProvider(
+      create: (context) => Shop(),
+      child: const MyApp(),
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -21,6 +29,7 @@ class MyApp extends StatelessWidget {
         '/splash_screen': (context) => const SplashScreen(),
         '/intro_page': (context) => const IntroPage(),
         '/shop_page': (context) => const ShopPage(),
+        '/cart_page': (context) => const CartPage(),
       },
     );
   }
