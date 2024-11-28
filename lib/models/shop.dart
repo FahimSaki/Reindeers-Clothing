@@ -31,7 +31,7 @@ class Shop extends ChangeNotifier {
   List<Product> get cart => _cart;
 
   // add items to cart
-  void addToCraft(Product item) {
+  void addToCartt(Product item) {
     _cart.add(item);
     notifyListeners();
   }
