@@ -1,4 +1,4 @@
-import 'package:ecommerce_ui/pages/intro_page.dart';
+import 'package:reindeers_clothing/pages/intro_page.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatelessWidget {

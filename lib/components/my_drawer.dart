@@ -1,4 +1,4 @@
-import 'package:ecommerce_ui/components/my_list_tile.dart';
+import 'package:reindeers_clothing/components/my_list_tile.dart';
 import 'package:flutter/material.dart';
 
 class MyDrawer extends StatelessWidget {

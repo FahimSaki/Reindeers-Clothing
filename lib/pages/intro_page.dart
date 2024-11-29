@@ -1,4 +1,4 @@
-import 'package:ecommerce_ui/components/my_button.dart';
+import 'package:reindeers_clothing/components/my_button.dart';
 import 'package:flutter/material.dart';
 
 class IntroPage extends StatelessWidget {

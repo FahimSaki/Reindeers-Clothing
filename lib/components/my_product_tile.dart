@@ -1,5 +1,5 @@
-import 'package:ecommerce_ui/models/product.dart';
-import 'package:ecommerce_ui/models/shop.dart';
+import 'package:reindeers_clothing/models/product.dart';
+import 'package:reindeers_clothing/models/shop.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

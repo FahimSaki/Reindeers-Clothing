@@ -1,6 +1,6 @@
-import 'package:ecommerce_ui/components/my_drawer.dart';
-import 'package:ecommerce_ui/components/my_product_tile.dart';
-import 'package:ecommerce_ui/models/shop.dart';
+import 'package:reindeers_clothing/components/my_drawer.dart';
+import 'package:reindeers_clothing/components/my_product_tile.dart';
+import 'package:reindeers_clothing/models/shop.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
