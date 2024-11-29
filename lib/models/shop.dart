@@ -32,7 +32,7 @@ class Shop extends ChangeNotifier {
         imagepath: "assets/images/cap2.jpg"),
   ];
   // user cart
-  List<Product> _cart = [];
+  final List<Product> _cart = [];
 
   // get product list
   List<Product> get shop => _shop;

@@ -103,7 +103,7 @@ class MyProductTile extends StatelessWidget {
             children: [
               // product price
               Text(
-                '\$' + product.price.toStringAsFixed(2),
+                '\$${product.price.toStringAsFixed(2)}',
               ),
 
               // add to cart button
