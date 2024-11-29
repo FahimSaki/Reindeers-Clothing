@@ -22,7 +22,7 @@ class MyProductTile extends StatelessWidget {
           // cancel button
           MaterialButton(
             onPressed: () => Navigator.pop(context),
-            child: Text('Cancel'),
+            child: const Text('Cancel'),
           ),
 
           // yes button
@@ -34,7 +34,7 @@ class MyProductTile extends StatelessWidget {
               // add to cart
               context.read<Shop>().addToCartt(product);
             },
-            child: Text('Yes'),
+            child: const Text('Yes'),
           ),
         ],
       ),
@@ -68,7 +68,7 @@ class MyProductTile extends StatelessWidget {
                   ),
                   width: double.infinity,
                   padding: const EdgeInsets.all(25),
-                  child: const Icon(Icons.favorite),
+                  child: Image.asset(product.imagepath),
                 ),
               ),
 
