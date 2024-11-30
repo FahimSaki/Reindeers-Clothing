@@ -45,10 +45,10 @@ Our app features a sleek and modern design to provide the best user experience. 
 
 ## 📸 Screenshots
 
-![Home Screen](https://yourimageurl.com/home-screen.jpg)
-![Product Page](https://yourimageurl.com/product-page.jpg)
-![Drawer](https://yourimageurl.com/product-page.jpg)
-![Cart](https://yourimageurl.com/cart.jpg)
+![Home Screen](https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976240.png)
+![Product Page](https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976253.png)
+![Drawer](https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976259.png)
+![Cart](https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976283.png)
 
 ## 🤝 Contributing
 
