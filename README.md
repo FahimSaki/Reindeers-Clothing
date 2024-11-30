@@ -45,7 +45,7 @@ Our app features a sleek and modern design to provide the best user experience. 
 
 ## 📱 Project View
 
-<img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976240.png" alt="Home Page" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976253.png" alt="Shop Page" width="200"/>
+<img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976240.png" alt="Home Page" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976253.png" alt="Shop Page" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976259.png" alt="Drawer" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976283.png" alt="Cart" width="200"/>
 
 ## 🤝 Contributing
