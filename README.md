@@ -43,32 +43,10 @@ To get started with Reindeers Clothing, follow these steps:
 
 Our app features a sleek and modern design to provide the best user experience. From easy navigation to detailed product views, we ensure that shopping for winter clothes is as enjoyable as wearing them.
 
-## 📸 Screenshots
+## 📱 Project View
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <div style="flex: 1; min-height: 200px;">
-    <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976240.png" alt="Home Screen" style="width: 100%; max-width: 300px; margin: 10px;">
-    <p style="text-align: center;">Home Screen</p>
-  </div>
-
-  <div style="flex: 1; min-height: 200px;">
-    <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976253.png" alt="Product Page" style="width: 100%; max-width: 300px; margin: 10px;">
-    <p style="text-align: center;">Product Page</p>
-  </div>
-
-  <div style="flex: 1; min-height: 200px;">
-    <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976259.png" alt="Drawer" style="width: 100%; max-width: 300px; margin: 10px;">
-    <p style="text-align: center;">Drawer</p>
-  </div>
-
-  <div style="flex: 1; min-height: 200px;">
-    <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976283.png" alt="Cart" style="width: 100%; max-width: 300px; margin: 10px;">
-    <p style="text-align: center;">Cart</p>
-  </div>
-
-</div>
-
+<img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976240.png" alt="Home Page" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976253.png" alt="Shop Page" width="200"/>
+<img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976259.png" alt="Drawer" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976283.png" alt="Cart" width="200"/>
 
 ## 🤝 Contributing
 
