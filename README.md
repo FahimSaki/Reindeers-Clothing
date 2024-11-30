@@ -47,22 +47,22 @@ Our app features a sleek and modern design to provide the best user experience. 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; min-height: 200px;">
     <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976240.png" alt="Home Screen" style="width: 100%; max-width: 300px; margin: 10px;">
     <p style="text-align: center;">Home Screen</p>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; min-height: 200px;">
     <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976253.png" alt="Product Page" style="width: 100%; max-width: 300px; margin: 10px;">
     <p style="text-align: center;">Product Page</p>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; min-height: 200px;">
     <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976259.png" alt="Drawer" style="width: 100%; max-width: 300px; margin: 10px;">
     <p style="text-align: center;">Drawer</p>
   </div>
 
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; min-height: 200px;">
     <img src="https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/screenshots/Screenshot_1732976283.png" alt="Cart" style="width: 100%; max-width: 300px; margin: 10px;">
     <p style="text-align: center;">Cart</p>
   </div>
