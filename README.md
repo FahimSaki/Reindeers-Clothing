@@ -3,7 +3,7 @@
 
 Welcome to **Reindeers Clothing**! Your one-stop-shop for the coziest and most stylish winter clothing. From warm jackets to trendy caps, we have everything you need to stay warm and fashionable during the chilly season.
 
-![Reindeers Clothing Banner](https://yourimageurl.com/banner.jpg)
+![Reindeers Clothing Banner](https://raw.githubusercontent.com/FahimSaki/Reindeers-Clothing/refs/heads/main/assets/images/logo.png)
 
 ## 🧥 Features
 
@@ -19,7 +19,7 @@ To get started with Reindeers Clothing, follow these steps:
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone https://github.com/yourusername/reindeers-clothing.git
+   git clone <https://github.com/FahimSaki/Reindeers-Clothing.git>
    \`\`\`
 2. **Navigate to the project directory:**
    \`\`\`bash
@@ -47,6 +47,7 @@ Our app features a sleek and modern design to provide the best user experience. 
 
 ![Home Screen](https://yourimageurl.com/home-screen.jpg)
 ![Product Page](https://yourimageurl.com/product-page.jpg)
+![Drawer](https://yourimageurl.com/product-page.jpg)
 ![Cart](https://yourimageurl.com/cart.jpg)
 
 ## 🤝 Contributing
@@ -68,7 +69,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any queries or support, feel free to reach out:
 
-- **Email:** support@reindeersclothing.com
+- **Email:** <support@reindeersclothing.com>
 - **Phone:** +123 456 7890
 - **Address:** 123 Winter Lane, Snowtown, ST 56789
 
